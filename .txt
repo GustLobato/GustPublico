@@ -4,3 +4,4 @@ teste number 3
 teste number 4 
 teste number 5
 teste revert
+teste merge 1
