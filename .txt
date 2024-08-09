@@ -6,3 +6,4 @@ teste number 5
 teste revert
 teste merge 1
 teste merge 2
+teste merge 3
