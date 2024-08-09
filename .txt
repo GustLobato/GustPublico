@@ -7,3 +7,4 @@ teste revert
 teste merge 1
 teste merge 2
 teste merge 3
+teste merge 4
